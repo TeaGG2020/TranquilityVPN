@@ -49,7 +49,7 @@ ____
 ____
 [:arrow_up:Contents](#Contents)
 ## **Questions and answers**
-### *1. Why disable Windows Defender?*
+### *1. Why disable Windows Defender*
 Because Windows Defender thinks my VPN client is a Trojan virus! :(
 ____
 ### *2. Why does Windows Defender think your VPN client is a virus?*
