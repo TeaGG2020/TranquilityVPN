@@ -6,11 +6,14 @@ ____
 
 1. [Beginning](#Beginning)
 2. [How to enable VPN?](#How-to-enable-VPN)
-3. [How to disable VPN?](#How-to-disable-VPN-?)
-4. [How to set up your OpenVPN profiles?](#How-to-set-up-your-OpenVPN-profiles-?)
-5. [How to uninstall the program?](#How-to-uninstall-the-program-?)
+3. [How to disable VPN?](#How-to-disable-VPN)
+4. [How to set up your OpenVPN profiles?](#How-to-set-up-your-OpenVPN-profiles)
+5. [How to uninstall the program?](#How-to-uninstall-the-program)
 6. [Questions and answers](#Questions-and-answers)
-7. [Check list](#Check-list)
+    1. [Why disable Windows Defender](#Why-disable-Windows-Defender)
+    2. [Why does Windows Defender think your VPN client is a virus](#Why-does-Windows-Defender-think-your-VPN-client-is-a-virus)
+    3. [Why does the program disable UAC while it is running](#Why-does-the-program-disable-UAC-while-it-is-running)
+8. [Check list](#Check-list)
 ## **Beginning**
 1. Disable Windows Defender
 2. Run TranquilityVpnSetup.exe
@@ -19,27 +22,27 @@ ____
 1. Open TranquilityVPN.exe
 2. Select the desired country from the dropdown list.
 3. Turn the switch to the ON position
-## **How to disable VPN?**
+## **How to disable VPN**
 1. Open TranquilityVPN.exe
 2. Turn the switch to the OFF position
-## **How to set up your OpenVPN profiles?**
+## **How to set up your OpenVPN profiles**
 1. After starting TranquilityVPN, go to the path:  
 ```%AppData%\TranquilityVPN\bin\Profiles```  
 2. Then move your OpenVPN profiles (.ovpn) to this folder  
 3. Restart TranquilityVPN.exe (just close and reopen)  
-## **How to uninstall the program?**
+## **How to uninstall the program**
 1. Open TranquilityVPN.exe
 2. In the lower right corner, click on the Trash can button
 3. Click Yes button
 4. Wait for the deletion to finish and click the Yes button at the end.
 ## **Questions and answers**
-### *1. Why disable Windows Defender?*
+### *Why disable Windows Defender*
 Because Windows Defender thinks my VPN client is a Trojan virus! :(
 ____
-### *2. Why does Windows Defender think your VPN client is a virus?*
+### *Why does Windows Defender think your VPN client is a virus*
 Because my VPN client disables UAC while the program is running.
 ____
-### *3. Why does the program disable UAC while it is running?*
+### *Why does the program disable UAC while it is running*
 This is for your convenience. Because every time you enable/disable the VPN, it will ask for administrative permission.
 ____
 [:arrow_up:Contents](#Contents)
