@@ -18,7 +18,7 @@ ____
     1. [Why disable Windows Defender](#Why-disable-Windows-Defender)
     2. [Why does Windows Defender think your VPN client is a virus](#Why-does-Windows-Defender-think-your-VPN-client-is-a-virus)
     3. [Why does the program disable UAC while it is running](#Why-does-the-program-disable-UAC-while-it-is-running)
-    4. [What's in the future](#What's-in-the-future)
+    4. [What is in the future](#What-is-in-the-future)
 8. [Check list](#Check-list)
 ## **Beginning**
 1. Download the Tranquility VPN Setup File from the Releases panel.
@@ -52,7 +52,7 @@ ____
 ### *Why does the program disable UAC while it is running*
 This is for your convenience. Because every time you enable/disable the VPN, it will ask for administrative permission.
 ____
-### *What's in the future*
+### *What is in the future*
 Version 1.1 - WireGuard support
 ____
 [:arrow_up:Contents](#Contents)
