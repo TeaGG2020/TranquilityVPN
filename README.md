@@ -5,7 +5,7 @@ ____
 ## **Contents**
 
 1. [Beginning](#Beginning)
-2. [How to enable VPN?](#How-to-enable-VPN-?)
+2. [How to enable VPN?](#How-to-enable-VPN)
 3. [How to disable VPN?](#How-to-disable-VPN-?)
 4. [How to set up your OpenVPN profiles?](#How-to-set-up-your-OpenVPN-profiles-?)
 5. [How to uninstall the program?](#How-to-uninstall-the-program-?)
@@ -15,7 +15,7 @@ ____
 1. Disable Windows Defender
 2. Run TranquilityVpnSetup.exe
 3. Enjoy!
-## **How to enable VPN?**
+## **How to enable VPN**
 1. Open TranquilityVPN.exe
 2. Select the desired country from the dropdown list.
 3. Turn the switch to the ON position
