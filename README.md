@@ -9,14 +9,16 @@ ____
 4. [How to set up your OpenVPN profiles?](#How-to-set-up-your-OpenVPN-profiles?)
 5. [How to uninstall the program?](#How-to-uninstall-the-program?)
 6. [Questions and answers](#Questions-and-answers)
-    1. [Why disable Windows Defender?](#Why-disable-Windows-Defender?)
-    2. [Why does Windows Defender think your VPN client is a virus?](#Why-does-Windows Defender-think-your-VPN-client-is-a-virus?)
-    3. [Why does the program disable UAC while it is running?](#Why-does-the-program-disable-UAC-while-it-is-running?)
+    1. [Why disable Windows Defender?](#1.-Why-disable-Windows-Defender?)
+    2. [Why does Windows Defender think your VPN client is a virus?](#2.-Why-does-Windows-Defender-think-your-VPN-client-is-a-virus?)
+    3. [Why does the program disable UAC while it is running?](#3.-Why-does-the-program-disable-UAC-while-it-is-running?)
 7. [Check list](#Check-list)
 ## **Beginning**
 1. Disable Windows Defender
 2. Run TranquilityVpnSetup.exe
 3. Enjoy!
+____
+[:arrow_up:Contents](#Contents)
 ## **How to enable VPN?**
 1. Open TranquilityVPN.exe
 2. Select the desired country from the dropdown list.
