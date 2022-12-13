@@ -24,24 +24,28 @@ ____
 1. Download the Tranquility VPN Setup File from the Releases panel.
 2. Disable Windows Defender
 3. Run TranquilityVpnSetup.exe
-4. Enjoy!
+4. Just enjoy!
 ## **How to enable VPN**
 1. Open TranquilityVPN.exe
 2. Select the desired country from the dropdown list.
 3. Turn the switch to the ON position
+4. Just enjoy!
 ## **How to disable VPN**
 1. Open TranquilityVPN.exe
 2. Turn the switch to the OFF position
+3. Just enjoy!
 ## **How to set up your OpenVPN profiles**
 1. After starting TranquilityVPN, go to the path:  
 ```%AppData%\TranquilityVPN\bin\Profiles```  
 2. Then move your OpenVPN profiles (.ovpn) to this folder  
 3. Restart TranquilityVPN.exe (just close and reopen)  
+4. Just enjoy!
 ## **How to uninstall the program**
 1. Open TranquilityVPN.exe
 2. In the lower right corner, click on the Trash can button
 3. Click Yes button
 4. Wait for the deletion to finish and click the Yes button at the end.
+5. Just enjoy!
 ## **Questions and answers**
 ### *Why disable Windows Defender*
 Because Windows Defender thinks my VPN client is a Trojan virus! :(
