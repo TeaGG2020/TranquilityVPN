@@ -632,7 +632,7 @@ def InterfaceSequence():
         Interface.buttonRefreshResponse()
         Interface.buttonRefreshStatus()
         
-        #SWITCHES /// ПЕРЕКЛЮЧАТЕЛИ
+        #SWITCHES /// ПЕРЕКЛЮЧАТЕЛИ 
         Interface.switchVPN()
         
         #DROP TEXT /// ВЫПАДАЮЩИЙ ТЕКСТ
