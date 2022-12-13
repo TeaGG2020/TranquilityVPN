@@ -5,8 +5,8 @@ ____
 ![Alt-текст](https://i.ibb.co/1RNd4BC/Tranquillity-Studo.png "Tranquility Studio")
 ____
 ## **Files:**
-[Tranquility VPN Source File](https://github.com/TeaGG2020/TranquilityVPN/releases/tag/SourceFile)
-[Tranquility VPN Setup File](https://github.com/TeaGG2020/TranquilityVPN/releases/tag/SetupFile)
+### [Tranquility VPN Source File](https://github.com/TeaGG2020/TranquilityVPN/releases/tag/SourceFile)  
+### [Tranquility VPN Setup File](https://github.com/TeaGG2020/TranquilityVPN/releases/tag/SetupFile)
 ## **Contents**
 
 1. [Beginning](#Beginning)
