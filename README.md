@@ -5,10 +5,10 @@ ____
 ## **Contents**
 
 1. [Beginning](#Beginning)
-2. [How to enable VPN?](#How-to-enable-VPN?)
-3. [How to disable VPN?](#How-to-disable-VPN?)
-4. [How to set up your OpenVPN profiles?](#How-to-set-up-your-OpenVPN-profiles?)
-5. [How to uninstall the program?](#How-to-uninstall-the-program?)
+2. [How to enable VPN?](#How-to-enable-VPN-?)
+3. [How to disable VPN?](#How-to-disable-VPN-?)
+4. [How to set up your OpenVPN profiles?](#How-to-set-up-your-OpenVPN-profiles-?)
+5. [How to uninstall the program?](#How-to-uninstall-the-program-?)
 6. [Questions and answers](#Questions-and-answers)
 7. [Check list](#Check-list)
 ## **Beginning**
