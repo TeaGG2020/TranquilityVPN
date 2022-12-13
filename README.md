@@ -10,8 +10,12 @@ ____
 5. [How to uninstall the program?](#How-to-uninstall-the-program?)
 6. [Questions and answers](#Questions-and-answers)
     1. [Why disable Windows Defender?](#Why-disable-Windows-Defender)
-    2. [Why does Windows Defender think your VPN client is a virus?](#Why-does-Windows-Defender-think-your-VPN-client-is-a-virus)
-    3. [Why does the program disable UAC while it is running?](#Why-does-the-program-disable-UAC-while-it-is-running)
+    2. [Why disable Windows Defender?](#2.-Why-does-Windows-Defender-think-your-VPN-client-is-a-virus)
+    3. [Why disable Windows Defender?](#Why-does-Windows-Defender-think-your-VPN-client-is-a-virus)
+    4. [Why disable Windows Defender?](#Why-does-Windows-Defender-think-your-VPN-client-is-a-virus?)
+    5. [Why disable Windows Defender?](#2.-Why-does-Windows-Defender-think-your-VPN-client-is-a-virus?)
+    6. [Why does Windows Defender think your VPN client is a virus?](#Why-does-Windows-Defender-think-your-VPN-client-is-a-virus)
+    7. [Why does the program disable UAC while it is running?](#Why-does-the-program-disable-UAC-while-it-is-running)
 7. [Check list](#Check-list)
 ## **Beginning**
 1. Disable Windows Defender
